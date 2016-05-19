@@ -3,6 +3,7 @@ Currently trying to simulate the Earth orbiting the Sun. */
 
 #include <stdio.h>
 #include "particles.c"
+// At the time of writing this I did not know about making my own header files, and it hasn't been changed since.
 
 int main()
 {
